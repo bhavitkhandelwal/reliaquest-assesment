@@ -1,0 +1,12 @@
+plugins {
+    id 'project-conventions'
+}
+
+dependencies {
+    testImplementation 'org.springframework.boot:spring-boot-starter-test',
+            'com.fasterxml.jackson.core:jackson-databind:2.13.3'
+}
+
+springBoot {
+    mainClass = 'com.reliaquest.api.ApiApplication'
+}

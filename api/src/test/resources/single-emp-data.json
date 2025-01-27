@@ -1,0 +1,12 @@
+{
+  "status": "Successfully processed request.",
+  "data": {
+    "id": "e8093f28-c029-4e92-92c7-de5b99f4c3f1",
+    "employee_name": "Tiger Nixon",
+    "employee_salary": 320800,
+    "employee_age": 61,
+    "employee_email": "dummyemail1",
+    "employee_title": "employeetitle"
+  },
+  "message": "Successfully! Record has been fetched."
+}
